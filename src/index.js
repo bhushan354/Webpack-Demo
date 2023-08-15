@@ -1,3 +1,5 @@
-import {camelCase} from 'lodash';
+import './style.scss';
 
+
+import {camelCase} from 'lodash';
 console.log(camelCase('Hello sexy world'));
